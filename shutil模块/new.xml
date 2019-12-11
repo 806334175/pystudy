@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="bluetooth">c5:b2:d5:b3:c8:b3</string>
+    <string name="sdk">7.1.2</string>
+    <string name="screen">480×800&amp;240</string>
+    <string name="wifi">FAST_VX687G&amp;f2:b6:e7:b7:f7:d9&amp;553647381</string>
+    <string name="mac_address">02:C0:8C:DE:0E:A9&amp;00:18:2F:E7:66:01&amp;[B@419</string>
+    <string name="ID">PD1709_A_1.18.8&amp; &amp;9938847</string>
+    <string name="line1Number">+8613494138862</string>
+    <string name="board">vivo X9L&amp;msm8957</string>
+    <string name="net">NETWORK_TYPE_GPRS&amp;1&amp;0</string>
+    <string name="xhs">20190509151007yv2nzd6mypowyr1et3c4lruj1ipi36043j46meo00lu3nd6l</string>
+    <string name="cpu">qcom</string>
+    <boolean name="isTrue" value="true" />
+    <string name="imei">867083934714294&amp;86782920625111</string>
+    <string name="sim_type">中国电信&amp;46003</string>
+    <string name="manufacturer">vivo</string>
+    <string name="serial">4167C250C49BA&amp;8986034414141519491&amp;AA8DDZ71AZONQLNA</string>
+    <string name="imsi">4600367486021215</string>
+    <string name="model">vivo X9L</string>
+    <string name="android_id">D5BE806818D71CD</string>
+    <string name="product">vivo X9L</string>
+</map>

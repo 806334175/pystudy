@@ -1,0 +1,15 @@
+2019-09-11 11:05:31 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - DEBUG -F_H_L_F_info:  debug
+2019-09-11 11:05:31 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - INFO -F_H_L_F_info:  info
+2019-09-11 11:05:31 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - WARNING -F_H_L_F_info:  warning
+2019-09-11 11:05:31 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - ERROR -F_H_L_F_info:  error
+2019-09-11 11:05:31 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - CRITICAL -F_H_L_F_info:  critical
+2019-09-17 11:33:55 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - DEBUG -F_H_L_F_info:  debug
+2019-09-17 11:33:55 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - INFO -F_H_L_F_info:  info
+2019-09-17 11:33:55 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - WARNING -F_H_L_F_info:  warning
+2019-09-17 11:33:55 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - ERROR -F_H_L_F_info:  error
+2019-09-17 11:33:55 AM - D:/PythonCode/test1/logging/F_H_L_F_info.py - CRITICAL -F_H_L_F_info:  critical
+2019-09-19 13:05:19 PM - D:/PythonCode/test1/logging/F_H_L_F_info.py - DEBUG -F_H_L_F_info:  debug
+2019-09-19 13:05:19 PM - D:/PythonCode/test1/logging/F_H_L_F_info.py - INFO -F_H_L_F_info:  info
+2019-09-19 13:05:19 PM - D:/PythonCode/test1/logging/F_H_L_F_info.py - WARNING -F_H_L_F_info:  warning
+2019-09-19 13:05:19 PM - D:/PythonCode/test1/logging/F_H_L_F_info.py - ERROR -F_H_L_F_info:  error
+2019-09-19 13:05:19 PM - D:/PythonCode/test1/logging/F_H_L_F_info.py - CRITICAL -F_H_L_F_info:  critical

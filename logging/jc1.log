@@ -1,0 +1,3 @@
+2019-09-19 13:51:11 PM - root - DEBUG -Logger的继承:  log1 debug
+2019-09-19 13:51:11 PM - root.child1 - DEBUG -Logger的继承:  log2 debug
+2019-09-19 13:51:11 PM - root.child1.child2 - DEBUG -Logger的继承:  log3 debug
