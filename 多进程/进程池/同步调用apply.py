@@ -13,7 +13,7 @@ import os, time
 
 def work(n):
     print('%s run' % os.getpid())
-    time.sleep(3)
+    time.sleep(1)
     return n ** 2
 
 

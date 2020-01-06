@@ -55,7 +55,10 @@
 #     sample.do_something()
 
 
-with open('tete.py') as op:
-    print(op.closed)
+# with open('tete.py') as op:
+#     print(op.closed)
+#
+# print(op.closed)
 
-print(op.closed)
+msg = input()
+print(msg)

@@ -37,6 +37,7 @@ if __name__ == '__main__':
     while True:
         conn, client_addr = server.accept()
         p.apply_async(talk, args=(conn, client_addr))
+        print("a")
         # p.apply(talk,args=(conn,client_addr)) #同步的话，则同一时间只有一个客户端能访问
 
 # server端
